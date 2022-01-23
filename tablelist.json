@@ -1,0 +1,14 @@
+{
+	"StaticDataSkill" : {
+		"filePath" : "filePath",
+		"sheetName" : "sheetName"
+	},
+	"StaticDataUnit" : {
+		"filePath" : "filePath",
+		"sheetName" : "sheetName"
+	},
+	"StaticDatabuff" : {
+		"filePath" : "filePath",
+		"sheetName" : "sheetName"
+	}
+}
