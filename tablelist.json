@@ -3,11 +3,11 @@
 		"filePath" : "filePath",
 		"sheetName" : "sheetName"
 	},
-	"StaticDataUnit" : {
+	"StaticDatabuff" : {
 		"filePath" : "filePath",
 		"sheetName" : "sheetName"
 	},
-	"StaticDatabuff" : {
+	"StaticDataItem" : {
 		"filePath" : "filePath",
 		"sheetName" : "sheetName"
 	}
