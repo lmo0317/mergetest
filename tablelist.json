@@ -12,6 +12,11 @@
 	"StaticDataBuff" : {
 		"filePath" : "filePath",
 		"sheetName" : "sheetName",
+		"delete" : true
+	},
+	"StaticDataMap" : {
+		"filePath" : "filePath",
+		"sheetName" : "sheetName",
 		"delete" : false
 	}
 }
