@@ -7,9 +7,14 @@
 	"StaticDataUnit" : {
 		"filePath" : "filePath",
 		"sheetName" : "sheetName",
-		"delete" : false
+		"delete" : true
 	},
 	"StaticDataBuff" : {
+		"filePath" : "filePath",
+		"sheetName" : "sheetName",
+		"delete" : false
+	},
+	"StaticDataItem" : {
 		"filePath" : "filePath",
 		"sheetName" : "sheetName",
 		"delete" : false
