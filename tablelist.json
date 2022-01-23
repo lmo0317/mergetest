@@ -1,14 +1,17 @@
 {
 	"StaticDataSkill" : {
 		"filePath" : "filePath",
-		"sheetName" : "sheetName"
+		"sheetName" : "sheetName",
+		"delete" : false
 	},
 	"StaticDataUnit" : {
 		"filePath" : "filePath",
-		"sheetName" : "sheetName"
+		"sheetName" : "sheetName",
+		"delete" : false
 	},
-	"StaticDatabuff" : {
+	"StaticDataBuff" : {
 		"filePath" : "filePath",
-		"sheetName" : "sheetName"
+		"sheetName" : "sheetName",
+		"delete" : false
 	}
 }
