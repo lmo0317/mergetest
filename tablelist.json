@@ -13,15 +13,5 @@
 		"filePath" : "filePath",
 		"sheetName" : "sheetName",
 		"delete" : true
-	},
-	"StaticDataMap" : {
-		"filePath" : "filePath",
-		"sheetName" : "sheetName",
-		"delete" : false
-	},
-	"StaticDataItem" : {
-		"filePath" : "filePath",
-		"sheetName" : "sheetName",
-		"delete" : false
 	}
 }
